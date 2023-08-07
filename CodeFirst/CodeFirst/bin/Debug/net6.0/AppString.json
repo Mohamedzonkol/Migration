@@ -1,0 +1,3 @@
+﻿  {
+    "constr": "server= .;Database= Code_First;Integrated Security= SSPI;TrustServerCertificate= True"
+  }
